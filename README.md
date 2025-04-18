@@ -1,6 +1,6 @@
 # CGPA-TRACKER
 
-# 📊 Excel VBA Project – [Your Project Title]
+# 📊 Excel VBA Project – CGPA-TRACKER
 
 This is an Excel VBA-powered project designed to [help students track their academic performance and help educational institutions to register students and upload thier results for efficient transcript generation. Thereby saving time, money and make it easy to use to all parties]. It includes custom macros to enhance user interaction and streamline tasks within Excel.
 
